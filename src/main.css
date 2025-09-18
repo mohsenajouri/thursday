@@ -1,0 +1,11 @@
+.colorOne{
+    text-align: center;
+    color: aqua!important;
+    margin-bottom: 2.5rem;
+}
+.colorTow{
+    text-align: end;
+    margin-top: 3.5rem;
+    border: 2px dotted gray;
+    border-radius: 1rem;
+}
